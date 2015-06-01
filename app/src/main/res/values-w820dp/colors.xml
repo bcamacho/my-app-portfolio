@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="BTN_FOCUSED_STATE_COLOR">#ff263238</color>
+    <color name="BTN_PRESSED_STATE_COLOR">#ffc32b28</color>
+    <color name="BTN_NORMAL_STATE_COLOR">#ffcb6f0e</color>
+</resources>
